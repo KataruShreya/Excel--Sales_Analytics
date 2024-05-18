@@ -7,8 +7,6 @@
     **1.** Create a _[customer performance report](https://github.com/KataruShreya/Excel--Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KataruShreya/Excel--Sales_Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-  
-    **3.** Derive Profit and Loss statements by [fiscal years](https://github.com/KataruShreya/Excel--Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf), [months](https://github.com/KataruShreya/Excel--Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) and by [markets](https://github.com/KataruShreya/Excel--Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance through usage of data-driven insights to improve the sales strategies and help make smarter decisions. 
 

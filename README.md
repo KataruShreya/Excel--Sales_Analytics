@@ -1,4 +1,4 @@
-# Excel--Sales_Analytics
+# Excel-Sales_Analytics
 
 - **Project objective:** 
 

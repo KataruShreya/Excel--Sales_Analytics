@@ -18,9 +18,9 @@
 ## Finance_Analytics
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KataruShreya/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KataruShreya/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KataruShreya/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KataruShreya/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KataruShreya/Excel-Finance_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KataruShreya/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
 
 - **Purpose of finance analytics:** The primary purpose of this project is to leverage Excel's analytical tools to enhance financial decision-making and strategic planning. Analyzing financial data provides insights to optimize performance, manage risks, identify growth opportunities, support decisions, and communicate with stakeholders.
 
